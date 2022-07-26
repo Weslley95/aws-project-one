@@ -1,4 +1,4 @@
-package com.wpba.aws_projeto_one;
+package com.wpb.aws_project_one;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

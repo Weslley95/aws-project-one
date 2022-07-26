@@ -1,4 +1,4 @@
-package com.wpba.aws_projeto_one.controller;
+package com.wpb.aws_project_one.controller;
 
 
 import org.slf4j.Logger;

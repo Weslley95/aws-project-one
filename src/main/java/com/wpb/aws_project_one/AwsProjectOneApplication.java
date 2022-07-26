@@ -1,13 +1,13 @@
-package com.wpba.aws_projeto_one;
+package com.wpb.aws_project_one;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AwsProjetoOneApplication {
+public class AwsProjectOneApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AwsProjetoOneApplication.class, args);
+		SpringApplication.run(AwsProjectOneApplication.class, args);
 	}
 
 }
